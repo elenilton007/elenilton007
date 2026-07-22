@@ -1,16 +1,57 @@
-## Hi there 👋
+# Olá! Sou o Elenilton 👋
 
-<!--
-**elenilton007/elenilton007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Profissional de TI em transição de carreira**, unindo 21 anos de experiência como empreendedor e gestor à formação técnica em Desenvolvimento de Sistemas e Automação Industrial.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Minha trajetória
+
+Depois de 21 anos administrando meu próprio negócio — cuidando de gestão financeira, liderança de equipe e treinamento de pessoas — decidi aplicar essa experiência de gestão na área de Tecnologia da Informação. Hoje combino visão de negócio com conhecimento técnico em programação, banco de dados e automação industrial.
+
+---
+
+### 🔧 Competências técnicas
+
+**Desenvolvimento**
+- Python
+- HTML, JavaScript
+- Lógica de programação e Programação Orientada a Objetos (POO)
+
+**Banco de Dados**
+- SQL avançado (consultas complexas, análise e extração de dados)
+
+**Automação Industrial**
+- Programação de CLP (Siemens S7-1200)
+- HMI (Interface Homem-Máquina)
+- Instrumentação e controle de processos
+- Diagramas elétricos e pneumáticos
+
+**Outros**
+- Fundamentos de Inteligência Artificial
+- Noções de cibersegurança
+- Inglês básico/intermediário
+
+---
+
+### 🎓 Formação
+
+- Técnico em Desenvolvimento de Sistemas — Colégio Técnico Global (2026)
+- Técnico em Automação Industrial — Unicorp Faculdade (2024)
+- Tecnólogo em Tecnologia da Informação (em andamento) — UNIFEMM
+
+---
+
+### 📌 Projetos em destaque
+
+*Em construção — novos projetos sendo adicionados em breve.*
+
+---
+
+### 📫 Contato
+
+- **LinkedIn:** [linkedin.com/in/elenilton-santos-da-silveira](https://www.linkedin.com/in/elenilton-santos-da-silveira-450952285)
+- **E-mail:** marholiver007@gmail.com
+
+---
+
+💡 *Aberto a oportunidades em Desenvolvimento de Sistemas, TI e Automação Industrial.*
