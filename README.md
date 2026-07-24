@@ -43,7 +43,17 @@ Depois de 21 anos administrando meu próprio negócio — cuidando de gestão fi
 
 ### 📌 Projetos em destaque
 
-*Em construção — novos projetos sendo adicionados em breve.*
+### 🏭 [Automação de Esteira Transportadora](https://github.com/elenilton007/automacao-esteira-transportadora)
+Simulação de automação industrial em Python — lógica de CLP e interface HMI.
+**Stack:** Python
+
+### 💈 [Gestão de Barbearia](https://github.com/elenilton007/gestao-barbearia)
+Sistema completo de gestão para barbearia — clientes, atendimentos, relatórios e dashboard.
+**Stack:** Flask, SQL, HTML/CSS
+
+### 🔐 [API de Tarefas com JWT](https://github.com/elenilton007/api-tarefas-jwt)
+API REST com autenticação segura via JWT para gerenciamento de tarefas.
+**Stack:** Python, Flask/FastAPI, JWT
 
 ---
 
