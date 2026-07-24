@@ -55,6 +55,10 @@ Sistema completo de gestão para barbearia — clientes, atendimentos, relatóri
 API REST com autenticação segura via JWT para gerenciamento de tarefas.
 **Stack:** Python, Flask/FastAPI, JWT
 
+### 🤖 [Assistente de Atendimento com IA](https://github.com/elenilton007/assistente-ia-atendimento)
+API REST com autenticação JWT que integra IA generativa (OpenAI) para atendimento automatizado ao cliente.
+**Stack:** Python, Flask, JWT, OpenAI API
+
 ---
 
 ### 📫 Contato
